@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.13)  19 AUG 2014 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.13)  19 AUG 2014 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -11,33 +10,6 @@ Babel <3.9k> and hyphenation patterns for 79 languages loaded.
 Document Class: jpconf 2007/03/07 v1.1 LaTeX class for Journal of Physics: Conf
 erence Series
 (./jpconf11.clo
-=======
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=latex 2014.7.1)  19 AUG 2014 13:52
-entering extended mode
-**JPCSLaTeXGuidelines.tex
-
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\JPCSLaTeXGuidelines.tex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\jpconf.cls"
-Document Class: jpconf 2007/03/07 v1.1 LaTeX class for Journal of Physics: Conf
-erence Series
-
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\jpconf11.clo"
->>>>>>> FETCH_HEAD
 File: jpconf11.clo 2005/05/04 v1.0 LaTeX2e file (size option)
 )
 \indentedwidth=\skip41
@@ -55,7 +27,6 @@ File: jpconf11.clo 2005/05/04 v1.0 LaTeX2e file (size option)
 \bibindent=\dimen103
 \c@eqnval=\count87
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -84,43 +55,14 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count88
-=======
-(C:\Users\puthanma\Documents\TeX1\tex\latex\graphics\graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\puthanma\Documents\TeX1\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(C:\Users\puthanma\Documents\TeX1\tex\latex\graphics\graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\puthanma\Documents\TeX1\tex\latex\graphics\trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(C:\Users\puthanma\Documents\TeX1\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
-)
-Package graphics Info: Driver file: dvips.def on input line 91.
-
-(C:\Users\puthanma\Documents\TeX1\tex\latex\graphics\dvips.def
-File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
->>>>>>> FETCH_HEAD
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-=======
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsfonts\amsfonts.sty
->>>>>>> FETCH_HEAD
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
@@ -128,7 +70,6 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-<<<<<<< HEAD
 (./iopams.sty
 Package: iopams 1997/02/13 v1.0
  (/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
@@ -162,28 +103,6 @@ LaTeX Warning: Label `fig:degree' multiply defined.
 
 LaTeX Warning: Label `label' multiply defined.
 
-=======
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\iopams.sty"
-Package: iopams 1997/02/13 v1.0
-
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks16
-\ex@=\dimen106
-)
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen107
-))
-(C:\Users\puthanma\Documents\TeX1\tex\latex\ltxmisc\citesort.sty
-\@minsofar=\count88
-\@min=\count89
-\@cite@temp=\count90
-)
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\JPCSLaTeXGuidelines.aux"
->>>>>>> FETCH_HEAD
 
 LaTeX Warning: Label `label' multiply defined.
 
@@ -191,11 +110,8 @@ LaTeX Warning: Label `label' multiply defined.
 LaTeX Warning: Label `label' multiply defined.
 
 )
-<<<<<<< HEAD
 \openout1 = `JPCSLaTeXGuidelines.aux'.
 
-=======
->>>>>>> FETCH_HEAD
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -208,7 +124,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
-<<<<<<< HEAD
  (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
@@ -270,9 +185,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-=======
-
->>>>>>> FETCH_HEAD
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <18.06749> not available
 (Font)              size <17.28> substituted on input line 8.
@@ -282,20 +194,12 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <18.06749> not available
 (Font)              size <17.28> substituted on input line 8.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 11.
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
-=======
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsfonts\umsa.fd
->>>>>>> FETCH_HEAD
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 11.
 
-<<<<<<< HEAD
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
-=======
-(C:\Users\puthanma\Documents\TeX1\tex\latex\amsfonts\umsb.fd
->>>>>>> FETCH_HEAD
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 16.
@@ -308,7 +212,6 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              for symbol `textbraceleft' on input line 16.
 
 
-<<<<<<< HEAD
 LaTeX Warning: Citation `neuper2001' on page 1 undefined on input line 28.
 
 
@@ -319,20 +222,10 @@ LaTeX Warning: Citation `ref:Rubino' on page 1 undefined on input line 31.
 
 
 LaTeX Warning: Citation `doug2006betawave' on page 1 undefined on input line 44
-=======
-LaTeX Warning: Citation `ref:Rubino' on page 1 undefined on input line 29.
-
-
-LaTeX Warning: Citation `ref:Chris2011' on page 1 undefined on input line 35.
-
-
-LaTeX Warning: Citation `doug2006betawave' on page 1 undefined on input line 41
->>>>>>> FETCH_HEAD
 .
 
 
 LaTeX Warning: Citation `taka2011humanbetawave' on page 1 undefined on input li
-<<<<<<< HEAD
 ne 44.
 
 
@@ -372,56 +265,10 @@ e 84.
 
 LaTeX Warning: Citation `watts1998collective' on page 2 undefined on input line
  85.
-=======
-ne 41.
-
-
-LaTeX Warning: Citation `ref:Scott99' on page 1 undefined on input line 52.
-
-[1
-
-]
-
-LaTeX Warning: Citation `ref:VargasIrwin2007' on page 2 undefined on input line
- 67.
-
-
-LaTeX Warning: Citation `takens1981detecting' on page 2 undefined on input line
- 85.
-
-
-LaTeX Warning: Citation `eckmann1987recurrence' on page 2 undefined on input li
-ne 89.
-
-
-LaTeX Warning: Citation `marwan2009complex' on page 2 undefined on input line 8
-9.
-
-
-LaTeX Warning: Citation `donner2010recurrence' on page 2 undefined on input lin
-e 89.
-
-
-LaTeX Warning: Citation `marwan2009complex' on page 2 undefined on input line 9
-3.
-
-
-LaTeX Warning: Citation `donner2010recurrence' on page 2 undefined on input lin
-e 93.
-
-
-LaTeX Warning: Citation `donner2010recurrence' on page 2 undefined on input lin
-e 97.
-
-
-LaTeX Warning: Citation `watts1998collective' on page 2 undefined on input line
- 98.
->>>>>>> FETCH_HEAD
 
 [2]
 
 LaTeX Warning: Citation `hegger1999improved' on page 3 undefined on input line 
-<<<<<<< HEAD
 96.
 
 
@@ -597,144 +444,22 @@ LaTeX Warning: Citation `iopartnum' on page 3 undefined on input line 181.
 
 [3] [4]
 Underfull \hbox (badness 2698) in paragraph at lines 210--218
-=======
-107.
-
-
-LaTeX Warning: Citation `hegger1999improved' on page 3 undefined on input line 
-107.
-
-
-LaTeX Warning: Citation `donner2011recurrence' on page 3 undefined on input lin
-e 107.
-
-
-LaTeX Warning: Citation `ref:Sanggyun' on page 3 undefined on input line 113.
-
-
-LaTeX Warning: File `cnetworks.eps' not found on input line 127.
-
-
-! LaTeX Error: File `cnetworks.eps' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 \includegraphics[width=3.4in]{cnetworks.eps}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Cannot determine size of graphic in cnetworks.eps (no BoundingBo
-x).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 \includegraphics[width=3.4in]{cnetworks.eps}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: cnetworks.eps Graphic file (type eps)
-<cnetworks.eps>
-
-LaTeX Warning: File `degrees.eps' not found on input line 154.
-
-
-! LaTeX Error: File `degrees.eps' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.154 \includegraphics[width=3.8in]{degrees.eps}
-                                                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Cannot determine size of graphic in degrees.eps (no BoundingBox)
-.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.154 \includegraphics[width=3.8in]{degrees.eps}
-                                                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: degrees.eps Graphic file (type eps)
-<degrees.eps>
-
-LaTeX Warning: File `cnet_number_of_neurons.eps' not found on input line 170.
-
-
-! LaTeX Error: File `cnet_number_of_neurons.eps' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.170 ...[width=3.6in]{cnet_number_of_neurons.eps}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Cannot determine size of graphic in cnet_number_of_neurons.eps (
-no BoundingBox).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.170 ...[width=3.6in]{cnet_number_of_neurons.eps}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-File: cnet_number_of_neurons.eps Graphic file (type eps)
-<cnet_number_of_neurons.eps> [3]
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 188.
-
-
-LaTeX Warning: Citation `iopartnum' on page 4 undefined on input line 188.
-
-[4]
-Underfull \hbox (badness 2698) in paragraph at lines 217--225
->>>>>>> FETCH_HEAD
 \OT1/cmr/m/n/10.95 Numeric reference lists should contain the references within
  an unnumbered section
  []
 
 
-<<<<<<< HEAD
 Underfull \hbox (badness 1845) in paragraph at lines 210--218
-=======
-Underfull \hbox (badness 1845) in paragraph at lines 217--225
->>>>>>> FETCH_HEAD
 \OT1/cmr/m/n/10.95 (such as []\OT1/cmtt/m/n/10.95 \section*{References}\OT1/cmr
 /m/n/10.95 ). The reference list itself is started by the code
  []
 
 [5] [6]
-<<<<<<< HEAD
 Overfull \hbox (4.65094pt too wide) in paragraph at lines 266--266
-=======
-Overfull \hbox (4.65094pt too wide) in paragraph at lines 273--273
->>>>>>> FETCH_HEAD
 []\OT1/cmtt/m/n/10.95 \item Nakamura S, Senoh M, Nagahama S, Iwase N, Yamada T,
  Matsushita T, Kiyoku H[] 
  []
 
-<<<<<<< HEAD
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -802,23 +527,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11 <./name-eps-converted-to.pdf>] (./JPCSLaTeXGuidelines.bbl) [12]
 (./JPCSLaTeXGuidelines.aux)
-=======
-[7] [8] [9] [10]
-File: name.eps Graphic file (type eps)
- <name.eps>
-File: name.eps Graphic file (type eps)
- <name.eps>
-Underfull \hbox (badness 1371) in paragraph at lines 511--511
-[]\OT1/cmr/bx/n/10.95 Figure 5. []\OT1/cmr/m/n/10.95 Figure caption for
- []
-
-File: name.eps Graphic file (type eps)
-<name.eps>
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\JPCSLaTeXGuidelines.bbl") [11]
-("C:\Users\puthanma\Documents\PhD_Research\Conference Proceedings\Submitted\ICM
-MPS_Narayan\JPCSLaTeXGuidelines.aux")
->>>>>>> FETCH_HEAD
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.78749pt have occurred.
@@ -827,20 +535,16 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-<<<<<<< HEAD
 LaTeX Warning: There were undefined references.
 
 
-=======
->>>>>>> FETCH_HEAD
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  2147 strings out of 493108
  27696 string characters out of 6134847
- 92640 words of memory out of 5000000
+ 92641 words of memory out of 5000000
  5569 multiletter control sequences out of 15000+600000
  17463 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -872,14 +576,3 @@ PDF statistics:
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-=======
- 1214 strings out of 493922
- 14284 string characters out of 3145292
- 67457 words of memory out of 3000000
- 4508 multiletter control sequences out of 15000+200000
- 17463 words of font info for 67 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 25i,13n,26p,1303b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on JPCSLaTeXGuidelines.dvi (11 pages, 37784 bytes).
->>>>>>> FETCH_HEAD
