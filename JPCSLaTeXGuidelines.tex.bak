@@ -104,7 +104,13 @@ where $k$ is the degree of a node. The Global clustering coefficient is simply t
 C= \frac{1}{N}\sum_{i\in\mathcal{N}}c(i).
 \end{equation}
 
-In this work, we divided the LFP data from all the 96 channels into 8 overlapping windows for each event and computed the recurrence network measure $C$ for each window. In order to find the optimal embedding parameters, we computed the first local minimum of the auto mutual information for data from all the channels and found that $\tau$ varied between 2 and 6. Similarly, to determine the embedding dimension, we used the improved FNN approach \cite{hegger1999improved} to avoid spurious effects due to noise. This method excludes all the pairs of state vectors whose initial distance is greater than $\sigma/r$, where the threshold $r$ is set to the standard choice of 10 \cite{hegger1999improved} and $\sigma$ is the standard deviation of the data. Using this approach, we found that the embedding dimension varied between 3 to 5 for all the data. Thus we fixed the embedding delay at 6 and the embedding dimension at 5 for the entire dataset.  Instead of specifying the recurrence threshold $\varepsilon$, we fixed the recurrence rate $RR = 0.03$ so that we obtain recurrence networks with approximately the same number of edges so that we can directly compare the network measures obtained from different time windows \cite{donner2011recurrence}. 
+In this work, we divided the LFP data from all the 96 channels into 8 overlapping windows for each event and computed the recurrence network measure $C$ for each window. In order to find the optimal embedding parameters, we computed the first local minimum of the auto mutual information for data from all the channels and found that $\tau$ varied between 2 and 6. Similarly, to determine the embedding dimension, we used the improved FNN approach \cite{hegger1999improved} to avoid spurious effects due to noise. The modified FNN approach suppresses all the pairs of state vectors whose initial distance is already greater
+10
+than =r, where the threshold r is set to the standard choice of 10 [36, 37] and 
+is the standard deviation of the data. This way invalid candidates are cxcluded
+from the computation of FNN statistic
+
+ found that the embedding dimension varied between 3 to 5 for all the data. Thus we fixed the embedding delay at 6 and the embedding dimension at 5 (it varied between 3 and 5 as per the modified FNN method) to construct recurrence networks of the same size. Instead of specifying the recurrence threshold $\varepsilon$, we fix the recurrence rate $RR = 0.03$ so that we obtain recurrence networks with approximately the same number of edges so that we can compare the networks obtained from different time windows \cite{donner2011recurrence}. 
 
 \section{Results}
 \label{sec:results}
